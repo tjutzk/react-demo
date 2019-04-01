@@ -4,7 +4,6 @@ import './App.css';
 
 class App extends Component {
 	render() {
-		const msg="hello"
 		return (
 			<div className="App">
 				<CommentApp />
